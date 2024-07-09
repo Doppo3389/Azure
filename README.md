@@ -1,3 +1,3 @@
 # Azure
 
-## Описание заданий в DAY1.pdf, DAY2.pdf
+## Описание заданий в DAY1.pdf DAY2.pdf
